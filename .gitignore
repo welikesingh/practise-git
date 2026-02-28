@@ -1,0 +1,5 @@
+.env
+new.txt
+#node_modules/
+*jpg
+*.png
